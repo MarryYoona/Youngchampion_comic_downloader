@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         youngchampion_comic-downloader
+// @name         youngchampion_comic_downloader
 // @namespace
 // @version      2025-06-12
 // @description  狠狠下载
